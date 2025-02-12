@@ -80,8 +80,8 @@ harmonies = analyze_harmony(palette)
 ## Data
 The dataset consists of images of famous artworks. You can either use your own collection or download public datasets from sources like:
 
-**WikiArt Dataset:**
-Kaggle Artworks Dataset
+**Best Artworks of All Time Dataset:**
+[Kaggle Artworks Dataset](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
 
 Place the artwork images in the artworks/ folder for processing.
 
